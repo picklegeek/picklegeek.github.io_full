@@ -8,6 +8,11 @@
   </url>
   
   <url>
+    <loc>https://picklegeek.github.io/blog/cutting-edge-technolgy/</loc>
+    <lastmod>2017-11-28T10:06:49+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>https://picklegeek.github.io/contact/</loc>
     <lastmod>2017-03-09T13:23:28+08:00</lastmod>
   </url>
@@ -15,6 +20,12 @@
   <url>
     <loc>https://picklegeek.github.io/about/</loc>
     <lastmod>2017-03-09T13:19:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://picklegeek.github.io/blog/</loc>
+    <lastmod>2017-11-28T10:06:49+05:30</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
