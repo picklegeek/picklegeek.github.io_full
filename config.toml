@@ -11,7 +11,7 @@ canonifyurls        = true                          # Turns relative urls into a
 [params]
     bloghead        = "Hariraj K"                        # Full name shows on blog post pages
     firstname       = "Hariraj"                # First name shows in introduction on main page
-    tagline         = "A rubyst and a data science enthusiast"       # Appears after the introduction
+    tagline         = "A FOSS enthusiast and a data science aspirant"       # Appears after the introduction
     introheight     = "large"                       # Input either 'medium' or 'large' or 'fullheight'
     theme           = "dark"                        # Choose 'light' or 'dark'
     avatar          = "img/profile.jpg"             # Path to image in static folder eg. img/avatar.png, or comment out to remove
@@ -50,12 +50,12 @@ canonifyurls        = true                          # Turns relative urls into a
 
 [[params.social]]
     url = "https://t.me/picklehari"
-    icon = "telegram"
+    icon = "paper-plane"
 
 [[params.social]]
     url = "https://linkedin.com/hariraj2958"
     icon = "linkedin"
 
 [[params.social]]
-    url = "www.github.com/picklegeek"
+    url = "https://www.github.com/picklegeek"
     icon = "github"
